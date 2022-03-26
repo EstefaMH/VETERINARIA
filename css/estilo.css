@@ -1,0 +1,21 @@
+:root{
+    --blue-color: #00b2b1;
+    --purple-color: rgb(117,41,149);
+}
+
+.registrar{
+    color: var(--purple-color);
+    border: 2px solid var(--purple-color);
+}
+
+.ingresar{
+    background-color: var(--blue-color);
+    border: none;
+    color: black;
+}
+.item{
+    text-decoration: none;
+    color:white;
+    
+}
+
